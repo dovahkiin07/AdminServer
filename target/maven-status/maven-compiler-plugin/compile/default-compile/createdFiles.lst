@@ -1,0 +1,10 @@
+com\mycompany\as1soapservice\jpa\ShowsJpaController.class
+com\mycompany\as1soapservice\models\Shows.class
+com\mycompany\as1soapservice\handler\ErrHandler.class
+com\mycompany\as1soapservice\jpa\exceptions\IllegalOrphanException.class
+com\mycompany\as1soapservice\JAXRSConfiguration.class
+service\ShowCrud.class
+com\mycompany\as1soapservice\jpa\exceptions\PreexistingEntityException.class
+com\mycompany\as1soapservice\jpa\exceptions\NonexistentEntityException.class
+com\mycompany\as1soapservice\models\Shows_.class
+com\mycompany\as1soapservice\resources\JavaEE8Resource.class
